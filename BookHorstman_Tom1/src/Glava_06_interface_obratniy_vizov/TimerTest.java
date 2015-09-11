@@ -12,6 +12,7 @@ public class TimerTest {
 		ActionListener listener = new TimePrinter();
 		//Создание таймера, вызывающего 
 		//обработчик каждый 10 сек
+		//gfhgdjfshgdkfjhgkdjshgdksfg
 		Timer t = new Timer(10000, listener);
 		t.start();
 		
