@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/MCpp_Java_1507_HomeWork/src/сycles_function/Task01_f.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="сycles_function.Task01_f"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="MCpp_Java_1507_HomeWork"/>
+</launchConfiguration>

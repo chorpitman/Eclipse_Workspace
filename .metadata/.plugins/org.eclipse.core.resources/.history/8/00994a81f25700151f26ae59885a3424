@@ -1,0 +1,10 @@
+package Glava_05_interface_sort;
+
+public class EmployeeSortTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

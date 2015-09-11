@@ -1,0 +1,6 @@
+package Glava_05_interface_sort;
+
+ class Manager extends Employee 
+ {
+
+ }

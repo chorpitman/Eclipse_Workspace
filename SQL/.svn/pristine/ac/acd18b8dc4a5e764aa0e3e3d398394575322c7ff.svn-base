@@ -1,0 +1,24 @@
+<Person>
+	<id>1</id>
+	<FName>Oleg</FName>
+	<LName>Chorpita</LName>
+	<age>31</age>
+</Person>
+<Person>
+	<id>2</id>
+	<FName>Igor</FName>
+	<LName>Chorpita</LName>
+	<age>55</age>
+</Person>
+<Person>
+	<id>3</id>
+	<FName>Viktor</FName>
+	<LName>Stepanenko</LName>
+	<age>78</age>
+</Person>
+<Person>
+	<id>4</id>
+	<FName>Dima</FName>
+	<LName>Shipaev</LName>
+	<age>37</age>
+</Person>
