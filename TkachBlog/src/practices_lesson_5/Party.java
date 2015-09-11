@@ -11,7 +11,7 @@ public class Party {
 
 	private final Map<String, String> properties = new HashMap<String, String>();
 
-	/** Что за ебанный карась?
+	/** Что за ебанный карась? А?
 	 * @return the name
 	 */
 	public String getName() {
